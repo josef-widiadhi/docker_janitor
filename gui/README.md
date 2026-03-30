@@ -51,7 +51,7 @@ A fresh Docker install might show 5 GB of real data yet the VHDX sits at
 
 ```bash
 # Clone or download the files
-git clone https://github.com/yourname/docker-janitor-pro
+git clone https://github.com/josef-widiadhi/docker-janitor-pro
 cd docker-janitor-pro
 
 # No pip packages required for the GUI/CLI
